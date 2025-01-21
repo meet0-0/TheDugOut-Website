@@ -1,6 +1,6 @@
 # TheDugOut-Website
 
-**The DugOut** is a modern, minimalistic website designed for gaming enthusiasts, offering a seamless experience for exploring games, participating in tournaments, and staying connected. Built with a sleek dark theme accented by shades of gold, the site ensures a visually stunning and user-friendly interface.
+**The DugOut** is a modern, minimalistic website designed for gaming enthusiasts, offering a seamless experience for exploring games, participating in tournaments, and staying connected. Built with a sleek dark theme accented by shades of gold, the site ensures a visually stunning and user-friendly interface. I've created this website as I'm trying to create a platform where gamers can not only compete but also connect/network with each other!
 
 ### 🌟 Key Features:
 - **Home Page**: Highlighting the mission of The DugOut with a vibrant hero section and dynamic animations.
